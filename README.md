@@ -1,2 +1,4 @@
 # Seminar_II2024-25
-project and Practicals
+## Rohit Suryawanshi
+### SY-A:138
+Project , Report and Practicals
